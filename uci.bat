@@ -1,1 +1,1 @@
-venv\Scripts\python -u uci.py
+venv\Scripts\python -u source\uci.py
